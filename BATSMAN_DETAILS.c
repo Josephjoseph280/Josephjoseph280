@@ -120,7 +120,7 @@ printf("\n*************BATSMAN_DETAILS*************************\n \n___Name_____
 
 
     
-    // to print data in first node and last node
+    
  
 }
 }
